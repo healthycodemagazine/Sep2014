@@ -1,0 +1,3 @@
+karthikshanmugasundaram558.cfke4n2puqoj.us-west-2.rds.amazonaws.com:3306
+root
+rootokok

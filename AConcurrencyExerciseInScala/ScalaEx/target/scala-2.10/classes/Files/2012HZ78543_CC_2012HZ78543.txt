@@ -1,0 +1,3 @@
+mohanvel543.chgihfbidvtf.ap-southeast-1.rds.amazonaws.com:3306
+root
+password

@@ -1,0 +1,3 @@
+alagappan589.cwkxzufpwfcp.us-west-2.rds.amazonaws.com:3306
+root
+redhatlinux

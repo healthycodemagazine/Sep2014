@@ -1,0 +1,3 @@
+aravindmohan515.cklkemzcadnp.us-west-2.rds.amazonaws.com:3306
+root
+Monday$01

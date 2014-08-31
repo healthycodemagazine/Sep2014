@@ -1,0 +1,4 @@
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.Models\bin\Debug\Bookish.Models.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.Models\bin\Debug\Bookish.Models.pdb
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.Models\obj\Debug\Bookish.Models.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.Models\obj\Debug\Bookish.Models.pdb

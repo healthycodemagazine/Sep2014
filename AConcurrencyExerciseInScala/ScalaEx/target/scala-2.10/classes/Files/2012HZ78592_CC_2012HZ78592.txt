@@ -1,0 +1,3 @@
+gimini592.c6nekgqykcen.us-west-2.rds.amazonaws.com:3306
+root
+gimini592

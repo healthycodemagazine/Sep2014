@@ -1,0 +1,3 @@
+pandidurai176.c7d7wuer2m80.us-west-2.rds.amazonaws.com:3306
+root
+Password-101

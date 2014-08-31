@@ -1,0 +1,3 @@
+vishnupriyag506.cuf4wvhni8jr.us-west-2.rds.amazonaws.com:3306
+root
+amazonrds

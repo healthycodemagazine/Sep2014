@@ -1,0 +1,3 @@
+kushalkashyap501.c9ehe3unroch.us-west-2.rds.amazonaws.com:3306
+root
+password

@@ -1,0 +1,3 @@
+ravikiran509.chwdjnkuhjdc.us-west-2.rds.amazonaws.com:3306
+root
+cts-ravi199965

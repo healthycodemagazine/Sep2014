@@ -1,0 +1,3 @@
+divyap550.cvcuqpse4sqr.us-west-2.rds.amazonaws.com:3306
+root
+amazonrds

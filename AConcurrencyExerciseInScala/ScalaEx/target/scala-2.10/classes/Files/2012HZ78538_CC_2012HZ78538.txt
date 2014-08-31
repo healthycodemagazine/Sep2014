@@ -1,0 +1,3 @@
+manoj538.cm9pdiyacd8n.us-west-2.rds.amazonaws.com
+root
+password

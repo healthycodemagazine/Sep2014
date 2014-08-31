@@ -1,0 +1,3 @@
+sankar562.csjm5dnaimiw.us-west-2.rds.amazonaws.com:3306
+geethasankar2010
+geethasankar2010

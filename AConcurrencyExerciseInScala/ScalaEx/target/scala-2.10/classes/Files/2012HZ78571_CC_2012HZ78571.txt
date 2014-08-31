@@ -1,0 +1,3 @@
+rajapandiya571.ccawlglr2jug.us-east-1.rds.amazonaws.com:3306
+root
+Comcast124

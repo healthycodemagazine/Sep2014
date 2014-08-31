@@ -1,0 +1,3 @@
+vinodjanawadkar552.c9jqvcqslkca.us-west-2.rds.amazonaws.com:3306
+root
+password-1

@@ -1,0 +1,3 @@
+venkatpandian544.cdk3sblas5uv.us-west-2.rds.amazonaws.com:3306
+root
+password

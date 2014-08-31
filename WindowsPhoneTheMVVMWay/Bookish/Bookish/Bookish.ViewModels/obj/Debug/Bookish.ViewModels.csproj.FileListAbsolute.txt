@@ -1,0 +1,14 @@
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Bookish.ViewModels.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Bookish.ViewModels.pdb
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Bookish.Models.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Bookish.Services.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Bookish.Models.pdb
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Bookish.Services.pdb
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Microsoft.Practices.Prism.xml
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\obj\Debug\Bookish.ViewModels.csprojResolveAssemblyReference.cache
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\obj\Debug\Bookish.ViewModels.dll
+E:\Projects\Samples\HealthyCode\Bookish\Bookish.ViewModels\obj\Debug\Bookish.ViewModels.pdb

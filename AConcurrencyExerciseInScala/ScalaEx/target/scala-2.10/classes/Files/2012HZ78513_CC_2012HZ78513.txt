@@ -1,0 +1,3 @@
+vigneswaranm513.czvrlspbnusi.us-east-1.rds.amazonaws.com:3306
+root
+password

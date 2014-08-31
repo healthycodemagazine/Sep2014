@@ -1,0 +1,3 @@
+thilagapriya517.c7hktacoenkw.us-west-2.rds.amazonaws.com:3306
+root
+password

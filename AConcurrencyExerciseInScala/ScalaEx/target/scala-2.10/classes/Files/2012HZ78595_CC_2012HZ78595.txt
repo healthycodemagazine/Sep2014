@@ -1,0 +1,3 @@
+dhume595.crvg3duevva8.us-west-2.rds.amazonaws.com:3306
+root123
+password1

@@ -1,0 +1,11 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Bookish" EntryPointType="Bookish.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Bookish" Source="Bookish.dll" />
+    <AssemblyPart x:Name="Bookish.ViewModels" Source="Bookish.ViewModels.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Prism" Source="Microsoft.Practices.Prism.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="Bookish.Models" Source="Bookish.Models.dll" />
+    <AssemblyPart x:Name="Bookish.Services" Source="Bookish.Services.dll" />
+  </Deployment.Parts>
+</Deployment>

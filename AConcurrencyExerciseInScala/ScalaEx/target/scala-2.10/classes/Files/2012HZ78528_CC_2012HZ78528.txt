@@ -1,0 +1,3 @@
+mmmuthuraj528.csxer2uigv6d.us-west-2.rds.amazonaws.com:3306
+root
+metmay14

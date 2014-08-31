@@ -1,0 +1,3 @@
+sowmianashok520.cesg5jm3o8tf.us-west-2.rds.amazonaws.com:3306
+root:
+padmabalu

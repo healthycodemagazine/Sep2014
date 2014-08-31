@@ -1,0 +1,3 @@
+http://nafeeyu116-env-47pnbscp3f.elasticbeanstalk.com/
+http://nafeeyu116.appspot.com/
+http://54.187.91.143

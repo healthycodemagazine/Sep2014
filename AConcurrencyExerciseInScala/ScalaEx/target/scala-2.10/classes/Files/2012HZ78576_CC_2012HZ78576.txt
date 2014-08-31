@@ -1,0 +1,3 @@
+sundranarasimhan576.cbygaflgl31x.us-west-2.rds.amazonaws.com:3306
+root
+hello123

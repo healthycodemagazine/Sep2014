@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CityList>
+	<City name="Chennai" country="India"/>
+	<City name="London" country="UK"/>
+	<City name="Denver" country="US"/>
+	<City name="Kolkata" country="India"/>
+	<City name="Paris" country="France"/>
+	<City name="Frankfurt" country="Germany"/>
+	<City name="Seattle" country="US"/>
+	<City name="Colombo" country="SriLanka"/>
+	<City name="Nuuk" country="Greenland"/>
+	<City name="Oslo" country="Norway"/>
+	<City name="Stockholm" country="Sweden"/>
+	<City name="Hongkong" country="China"/>
+	<City name="Tokyo" country="Japan"/>
+	<City name="Saint Petersburg" country="Russia"/>
+	<City name="Toronto" country="Canada"/>
+	<City name="Tel Aviv" country="Israel"/>
+	<City name="Mumbai" country="India"/>
+	<City name="Pune" country="India"/>
+	<City name="Shimla" country="India"/>
+	<City name="Cochin" country="India"/>
+	<City name="Madrid" country="Spain"/>
+	<City name="Berlin" country="Germany"/>
+	<City name="Kandy" country="SriLanka"/>
+	<City name="Singapore" country="Singapore"/>
+	<City name="New York" country="US"/>
+	<City name="Detroit" country="US"/>
+	<City name="Cape Town" country="South Africa"/>
+	<City name="Madurai" country="India"/>
+	<City name="Ranchi" country="India"/>
+	<City name="Darjeeling" country="India"/>
+	<City name="Bangalore" country="India"/>
+	<City name="Jaipur" country="India"/>
+	<City name="Bhilai" country="India"/>
+	<City name="Chandigarh" country="India"/>
+	<City name="Trivandrum" country="India"/>
+	<City name="New Jersey" country="US"/>
+	<City name="Los Angeles" country="US"/>
+	<City name="Phoenix" country="US"/>
+	<City name="Boston" country="US"/>
+	<City name="Chicago" country="US"/>
+	<City name="Atlanta" country="US"/>
+</CityList>

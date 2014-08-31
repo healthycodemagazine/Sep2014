@@ -1,0 +1,3 @@
+abhishekshukla514.cfhkklh3n8ie.us-west-2.rds.amazonaws.com:3306
+root
+hello123

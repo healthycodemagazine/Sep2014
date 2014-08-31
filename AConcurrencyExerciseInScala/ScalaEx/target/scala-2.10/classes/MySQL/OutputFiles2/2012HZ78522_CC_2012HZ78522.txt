@@ -1,0 +1,5 @@
+54.86.183.167
+Administrator
+=?*5-C3z4A;
+AWSAccessKeyId=AKIAJLXRGO2J3IQE2MZQ
+AWSSecretKey=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

@@ -1,0 +1,3 @@
+udhayarajanangappan561.cfp63fkvrp7r.us-west-2.rds.amazonaws.com:3306
+root
+hello123

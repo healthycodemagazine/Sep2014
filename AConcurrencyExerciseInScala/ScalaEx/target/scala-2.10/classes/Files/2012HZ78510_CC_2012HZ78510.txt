@@ -1,0 +1,3 @@
+karthikeyantk510.cdl3htclrqpg.us-west-2.rds.amazonaws.com:3306
+root
+miracle1989

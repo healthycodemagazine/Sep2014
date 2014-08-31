@@ -1,0 +1,3 @@
+anant566.cxd9njiincvn.us-west-2.rds.amazonaws.com:3306
+root
+Cognizant123

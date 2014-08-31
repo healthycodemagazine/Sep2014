@@ -1,0 +1,3 @@
+anandhj593.cycxao12ivql.us-west-2.rds.amazonaws.com:3306
+root
+hello123

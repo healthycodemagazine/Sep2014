@@ -1,0 +1,3 @@
+thomasedwinprabu601.c2h97k3qvloj.us-west-2.rds.amazonaws.com:3306
+root
+root1234

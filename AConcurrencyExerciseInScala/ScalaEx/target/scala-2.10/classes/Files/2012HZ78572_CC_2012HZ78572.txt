@@ -1,0 +1,3 @@
+nallappan572.cjgqqvppwwjn.us-west-2.rds.amazonaws.com:3306
+root
+OMsakthi17

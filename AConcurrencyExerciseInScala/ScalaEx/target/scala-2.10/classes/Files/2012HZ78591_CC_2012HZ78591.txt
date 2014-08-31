@@ -1,0 +1,3 @@
+kiruthiga591.cxm7vqgedejo.us-west-2.rds.amazonaws.com:3306
+root
+kiruthiga591

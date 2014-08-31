@@ -1,0 +1,3 @@
+keyurjoshi559.cbjuwqwwgk6w.us-west-2.rds.amazonaws.com:3306
+root
+admin123

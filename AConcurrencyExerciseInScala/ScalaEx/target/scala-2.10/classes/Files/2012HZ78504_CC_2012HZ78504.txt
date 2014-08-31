@@ -1,0 +1,3 @@
+subashini504.cfqw91ebfn2f.us-west-2.rds.amazonaws.com:3306
+root
+password

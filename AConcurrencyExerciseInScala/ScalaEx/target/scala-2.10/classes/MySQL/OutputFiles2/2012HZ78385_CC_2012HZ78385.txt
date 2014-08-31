@@ -1,0 +1,5 @@
+54.86.252.180
+administrator
+;thns%LkkB;
+AWSAccessKeyId=AKIAIUVW7GRYCE3B2AAA
+AWSSecretKey=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

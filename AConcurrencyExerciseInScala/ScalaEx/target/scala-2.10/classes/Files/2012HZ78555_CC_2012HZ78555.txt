@@ -1,0 +1,3 @@
+snehatopre555.cxx9ib6dayck.us-west-2.rds.amazonaws.com:3306
+root
+password

@@ -1,0 +1,3 @@
+karthikeyant586.cyl7qvbivjfk.us-west-2.rds.amazonaws.com:3306
+root
+root2014

@@ -1,0 +1,3 @@
+ummehani546.c7lwaumooxzk.us-west-2.rds.amazonaws.com:3306
+root
+password-9

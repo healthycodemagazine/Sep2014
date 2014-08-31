@@ -1,0 +1,3 @@
+vijayaragavanramakrishnan574.ciruejliv12y.us-west-2.rds.amazonaws.com:3306
+root
+passw0rd

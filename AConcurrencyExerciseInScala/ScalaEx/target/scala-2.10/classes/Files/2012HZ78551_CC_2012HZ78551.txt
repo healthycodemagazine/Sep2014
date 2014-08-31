@@ -1,0 +1,3 @@
+vinodhs551.ce9dnjgqu0mt.us-east-1.rds.amazonaws.com:3306
+root
+vino1234

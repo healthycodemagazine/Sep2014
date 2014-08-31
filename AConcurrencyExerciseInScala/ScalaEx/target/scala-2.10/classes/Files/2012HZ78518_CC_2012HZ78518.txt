@@ -1,0 +1,3 @@
+jebin518.ccoz91pne5lm.us-west-2.rds.amazonaws.com:3306
+root 
+password

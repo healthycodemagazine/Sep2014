@@ -1,0 +1,3 @@
+maitreyeenandi596.cf67snbydvpk.ap-southeast-1.rds.amazonaws.com:3306
+root
+monday14

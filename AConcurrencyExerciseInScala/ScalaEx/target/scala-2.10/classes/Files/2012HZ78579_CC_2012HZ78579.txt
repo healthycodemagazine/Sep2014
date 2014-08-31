@@ -1,0 +1,3 @@
+kkeerthikumar579.cmt7vhtgmidr.us-west-2.rds.amazonaws.com:3306
+root
+rootroot

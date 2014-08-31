@@ -1,0 +1,3 @@
+pavandambalappa583.ctq8adqai6vg.us-west-2.rds.amazonaws.com:3306
+admin
+password

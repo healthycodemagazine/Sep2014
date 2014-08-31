@@ -1,0 +1,3 @@
+jagatheeswaran878.cwgajogvbvwe.us-west-2.rds.amazonaws.com:3306
+root
+password

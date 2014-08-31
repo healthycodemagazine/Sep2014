@@ -1,0 +1,3 @@
+kumaranand532.ct0piqak9wxc.us-west-2.rds.amazonaws.com:3306
+root
+mysql123

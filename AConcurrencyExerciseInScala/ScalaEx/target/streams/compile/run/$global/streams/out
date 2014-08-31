@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mRunning EC3EvaluatorPartII [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/prabhus/Dropbox/BITS/CTS/Cloud/2014/EC3/USINGSBT/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/prabhus/Dropbox/BITS/CTS/Cloud/2014/EC3/USINGSBT/lib/akka-actor_2.10-2.3.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prabhus/Dropbox/BITS/CTS/Cloud/2014/EC3/USINGSBT/lib/akka-remote_2.10-2.3.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prabhus/Dropbox/BITS/CTS/Cloud/2014/EC3/USINGSBT/lib/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prabhus/Dropbox/BITS/CTS/Cloud/2014/EC3/USINGSBT/lib/mysql-connector-java-5.0.8-bin.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/prabhus/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread EC3PartII-akka.actor.default-dispatcher-2 to terminate.[0m

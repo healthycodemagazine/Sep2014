@@ -1,0 +1,3 @@
+subbucloud565.cv4xfl7td77y.us-west-2.rds.amazonaws.com:3306
+root
+hello123

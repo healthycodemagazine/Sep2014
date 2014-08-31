@@ -1,0 +1,3 @@
+nursekendarazad511.c7epszvlphkj.us-west-2.rds.amazonaws.com:3306
+root
+random32!

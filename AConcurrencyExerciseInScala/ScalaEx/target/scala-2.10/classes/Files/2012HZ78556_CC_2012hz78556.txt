@@ -1,0 +1,3 @@
+satheeshkumar556.cfwrisfycbxr.ap-southeast-1.rds.amazonaws.com:3306
+root
+password

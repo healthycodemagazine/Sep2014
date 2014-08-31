@@ -1,0 +1,3 @@
+seethamraju541.ciysnwo9b2yl.us-west-2.rds.amazonaws.com:3306
+root
+password
